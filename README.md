@@ -3,9 +3,9 @@
 
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=time%Gradient&height=300&section=footer&text=Jin_s_Feed&animation=twinkling&fontColor=FFFFFF&fontSize=90)
-
+<!--
  ![](https://mblogthumb-phinf.pstatic.net/MjAxNzAzMDlfMTU3/MDAxNDg5MDY0NDU4OTcx.P704SnBP42EYCyygT6kZyycWZhJ3xMEpJJpFKf4JISUg.Fewr10jLpjKefhoQvM-sjvGToGkwzLA9sdFCOKBPbgMg.PNG.vetline/image.png?type=w800)
-
+-->
 💬 Ask me about
 
 
